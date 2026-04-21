@@ -1,3 +1,6 @@
+# Required modules: pandas, scikit-learn, imbalanced-learn
+# Install with: pip install pandas scikit-learn imbalanced-learn
+
 import os
 import warnings
 import pandas as pd

@@ -1,3 +1,6 @@
+# Required modules: pandas, numpy, scikit-learn
+# Install with: pip install pandas numpy scikit-learn
+
 import pandas as pd
 import numpy as np
 from sklearn.neighbors import NearestNeighbors, LocalOutlierFactor

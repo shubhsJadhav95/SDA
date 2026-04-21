@@ -1,3 +1,6 @@
+# Required modules: pandas, matplotlib, scikit-learn
+# Install with: pip install pandas matplotlib scikit-learn
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_classification

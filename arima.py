@@ -1,3 +1,6 @@
+# Required modules: pandas, matplotlib, statsmodels
+# Install with: pip install pandas matplotlib statsmodels
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from statsmodels.tsa.arima.model import ARIMA

@@ -1,3 +1,6 @@
+# Required modules: pandas, numpy, scipy, matplotlib
+# Install with: pip install pandas numpy scipy matplotlib
+
 import pandas as pd
 import numpy as np
 from scipy import stats

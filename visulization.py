@@ -1,3 +1,6 @@
+# Required modules: pandas, numpy, matplotlib
+# Install with: pip install pandas numpy matplotlib
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
